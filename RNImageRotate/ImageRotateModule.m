@@ -5,10 +5,10 @@
 #import <React/RCTConvert.h>
 #import <React/RCTLog.h>
 #import <React/RCTUtils.h>
-#import "RCTImageUtils.h"
 
-#import "RCTImageStoreManager.h"
-#import "RCTImageLoader.h"
+#import "RCTImage/RCTImageUtils.h"
+#import "React/RCTImageStoreManager.h"
+#import "React/RCTImageLoader.h"
 
 @implementation ImageRotateModule
 
